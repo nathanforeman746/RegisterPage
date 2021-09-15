@@ -9,7 +9,7 @@ body {
 }
 
 .InputBox {
-    background-color: rgb(4, 32, 92);
+    background-color: rgb(89, 3, 92);
     border-radius: 10px;
     box-shadow: 0 15px 25px rgb(2, 12, 102);
     margin: auto auto;
@@ -25,7 +25,7 @@ button {
 	left: 0;
 	width: 100px;
 	height: 10%;
-	background: blue;
+	background: rgb(148, 0, 141);
 }
 
 nav {
