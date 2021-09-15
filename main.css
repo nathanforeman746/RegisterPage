@@ -1,16 +1,17 @@
 body {
     font-family: sans-serif;
+    text-shadow: white;
     font-size: x-large;
-    background-color: purple;
+    background-color: transparent;
     text-align: center;
-    margin: 40px;
+    margin: 0px;
     padding: 0;
 }
 
 .InputBox {
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgb(4, 32, 92);
     border-radius: 10px;
-    box-shadow: 0 15px 25px rgba(0, 0, 0, 1);
+    box-shadow: 0 15px 25px rgb(2, 12, 102);
     margin: auto auto;
     padding: 40px;
     position: absolute;
@@ -24,11 +25,10 @@ button {
 	left: 0;
 	width: 100px;
 	height: 10%;
-	background: purple;
+	background: blue;
 }
 
 nav {
-    background-color: white;
-    margin: 0px;
-    padding: 0px;
+    background-color: rgb(241, 0, 221);
+   
 }
