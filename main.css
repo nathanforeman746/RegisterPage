@@ -5,13 +5,13 @@ body {
     background-color: transparent;
     text-align: center;
     margin: 0px;
-    padding: 0;
+    padding: 0px;
 }
 
 .InputBox {
-    background-color: rgb(89, 3, 92);
+    background-color: rgb(45, 3, 92);
     border-radius: 10px;
-    box-shadow: 0 15px 25px rgb(2, 12, 102);
+    box-shadow: 0px 15px 25px rgb(2, 12, 102);
     margin: auto auto;
     padding: 40px;
     position: absolute;
@@ -26,9 +26,11 @@ button {
 	width: 100px;
 	height: 10%;
 	background: rgb(148, 0, 141);
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px rgb(1, 6, 54);
 }
 
 nav {
-    background-color: rgb(241, 0, 221);
+    background-color: rgb(73, 2, 153);
    
 }
